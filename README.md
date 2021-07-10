@@ -7,7 +7,7 @@ Proyectos 01-2019:
 |1| Sign Language Alphabet Recognizer  |   | https://github.com/rafajim96/sign-language-alphabet-recognizer   |   |   |
 |2| LaraAdmin |   | https://github.com/crcr97/la1 |   |   |
 |3| JARVIS |   | https://github.com/luisro369/JarvisUCA  | MIT  | Luis Romualdo  |
-|4| MayDay Computer Vision  |   | https://github.com/milomndz/MaydayComputerVisionWeb https://github.com/acampos96/MayDayComputerVisionApp  |   |   |
+|4| MayDay Computer Vision  |   | https://github.com/milomndz/MaydayComputerVisionWeb https://github.com/acampos96/MayDayComputerVisionApp  |   | Erika González, Benjamín Ayala, Nathaly Alvarenga, Edward Martínez y Luis Velásquez |
 |5| Experiments Bird Sounds |   | https://github.com/emartinezs/aiexperiments-bird-sounds |   |   |
 |6| AVGN |   | https://github.com/CarMer194/AVGN  |   | Carlos Merino  |
 |7| AsuraFaceID  |   | https://github.com/davequinta/AsuraFaceID | MIT | David Quintanilla  |
