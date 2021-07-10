@@ -32,7 +32,9 @@ https://github.com/donali98/MakeQReader
 https://github.com/salvadorc94/AMSSCovid19Map.git
 
 https://github.com/DJNGOSolutions/PostgREST-DUI_API/tree/master
+
 https://github.com/DJNGOSolutions/DUI-OCR-Panel
+
 https://github.com/DJNGOSolutions/simple-ocr-opencv/tree/tess
 
 https://github.com/RafaCruzA/VClass
