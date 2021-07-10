@@ -2,17 +2,17 @@
 
 Proyectos 2019:
 
-| Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
-|---|---|---|---|---|
-| Sign Language Alphabet Recognizer  |   | https://github.com/rafajim96/sign-language-alphabet-recognizer   |   |   |
-| LaraAdmin |   | https://github.com/crcr97/la1 |   |   |
-| JARVIS |   | https://github.com/luisro369/JarvisUCA  | MIT  | Luis Romualdo  |
-| MayDay Computer Vision  |   | https://github.com/milomndz/MaydayComputerVisionWeb https://github.com/acampos96/MayDayComputerVisionApp  |   |   |
-| Experiments Bird Sounds |   | https://github.com/emartinezs/aiexperiments-bird-sounds |   |   |
-| AVGN |   | https://github.com/CarMer194/AVGN  |   | Carlos Merino  |
-| AsuraFaceID  |   | https://github.com/davequinta/AsuraFaceID | MIT | David Quintanilla  |
-| ML en Matlab Octave con interfaz gráfica  |   | https://github.com/EliezerCast1llo/Machine-Learning-en-MatLab-Octave-con-interfaz-grafica | MIT  | Eliezer Castillo |
-| Sudoku Resolver |   | https://github.com/Johnvladimir/ProyectoCA_SudokuResolver | | John |
+|No.| Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
+|---|---|---|---|---|---|
+|1| Sign Language Alphabet Recognizer  |   | https://github.com/rafajim96/sign-language-alphabet-recognizer   |   |   |
+|2| LaraAdmin |   | https://github.com/crcr97/la1 |   |   |
+|3| JARVIS |   | https://github.com/luisro369/JarvisUCA  | MIT  | Luis Romualdo  |
+|4| MayDay Computer Vision  |   | https://github.com/milomndz/MaydayComputerVisionWeb https://github.com/acampos96/MayDayComputerVisionApp  |   |   |
+|5| Experiments Bird Sounds |   | https://github.com/emartinezs/aiexperiments-bird-sounds |   |   |
+|6| AVGN |   | https://github.com/CarMer194/AVGN  |   | Carlos Merino  |
+|7| AsuraFaceID  |   | https://github.com/davequinta/AsuraFaceID | MIT | David Quintanilla  |
+|8| ML en Matlab Octave con interfaz gráfica  |   | https://github.com/EliezerCast1llo/Machine-Learning-en-MatLab-Octave-con-interfaz-grafica | MIT  | Eliezer Castillo |
+|9| Sudoku Resolver |   | https://github.com/Johnvladimir/ProyectoCA_SudokuResolver | | John |
 
 Proyectos 2020:
 
