@@ -5,7 +5,7 @@ Proyectos 2019:
 | Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
 |---|---|---|---|---|
 | Sign Language Alphabet Recognizer  |   | https://github.com/rafajim96/sign-language-alphabet-recognizer   |   |   |
-|   |   | https://github.com/crcr97/la1 |   |   |
+| LaraAdmin |   | https://github.com/crcr97/la1 |   |   |
 | JARVIS |   | https://github.com/luisro369/JarvisUCA  | MIT  | Luis Romualdo  |
 | MayDay Computer Vision  |   | https://github.com/milomndz/MaydayComputerVisionWeb https://github.com/acampos96/MayDayComputerVisionApp  |   |   |
 | Experiments Bird Sounds |   | https://github.com/emartinezs/aiexperiments-bird-sounds |   |   |
