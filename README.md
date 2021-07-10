@@ -24,9 +24,9 @@ Proyectos 2020:
 | AMSS Covid19 Map |   | https://github.com/salvadorc94/AMSSCovid19Map.git |   |   |
 | DUI-OCR |   | https://github.com/DJNGOSolutions/PostgREST-DUI_API/tree/master https://github.com/DJNGOSolutions/DUI-OCR-Panel https://github.com/DJNGOSolutions/simple-ocr-opencv/tree/tess |   | |
 |   |   | https://github.com/RafaCruzA/VClass |   | Rafael Cruz |
-| FindMyProduct |   | https://github.com/Sortweste/FindMyProduct |   | |
-|   |   | https://github.com/BigDreamsCoders/Tremor |   | Nelson Castro |
-| MovieRecommender |   | https://github.com/gammanc/movierecommender |   | |
+| FindMyProduct |   | https://github.com/Sortweste/FindMyProduct | GPL v3 | |
+|   |   | https://github.com/BigDreamsCoders/Tremor | Apache 2.0 | Nelson Castro |
+| MovieRecommender |   | https://github.com/gammanc/movierecommender | GPL v3 | |
 
 
 
