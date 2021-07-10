@@ -6,12 +6,12 @@ Proyectos 2019:
 |---|---|---|---|---|
 | Sign Language Alphabet Recognizer  |   | https://github.com/rafajim96/sign-language-alphabet-recognizer   |   |   |
 |   |   | https://github.com/crcr97/la1 |   |   |
-| JARVIS |   | https://github.com/luisro369/JarvisUCA  |   | Luis Romualdo  |
+| JARVIS |   | https://github.com/luisro369/JarvisUCA  | MIT  | Luis Romualdo  |
 |   |   | https://github.com/milomndz/MaydayComputerVisionWeb https://github.com/acampos96/MayDayComputerVisionApp  |   |   |
 | Experiments Bird Sounds |   | https://github.com/emartinezs/aiexperiments-bird-sounds |   |   |
 | AVGN |   | https://github.com/CarMer194/AVGN  |   | Carlos Merino  |
-| AsuraFaceID  |   | https://github.com/davequinta/AsuraFaceID |   | David Quintanilla  |
-|   |   | https://github.com/EliezerCast1llo/Machine-Learning-en-MatLab-Octave-con-interfaz-grafica |   | Eliezer Castillo |
+| AsuraFaceID  |   | https://github.com/davequinta/AsuraFaceID | MIT | David Quintanilla  |
+|   |   | https://github.com/EliezerCast1llo/Machine-Learning-en-MatLab-Octave-con-interfaz-grafica | MIT  | Eliezer Castillo |
 
 Proyectos 2020:
 
