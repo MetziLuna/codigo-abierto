@@ -18,9 +18,9 @@ Proyectos 2020:
 
 | Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
 |---|---|---|---|---|
-| Chatbot |   | https://github.com/vegadevh/chatbot-dialogflow   |   | Diego Vega |
-| HowToWaste  |   | https://github.com/DouglasHdezT/HowToWaste |   | Douglas Hernández  |
-| Color Recognition |   | https://github.com/OpenMindDevs/color_recognition  |   |   |
+| Chatbot |   | https://github.com/vegadevh/chatbot-dialogflow   | MIT | Diego Vega |
+| HowToWaste  |   | https://github.com/DouglasHdezT/HowToWaste | MIT | Douglas Hernández  |
+| Color Recognition |   | https://github.com/OpenMindDevs/color_recognition  | GPL v3 |   |
 | AMSS Covid19 Map |   | https://github.com/salvadorc94/AMSSCovid19Map.git |   |   |
 | DUI-OCR |   | https://github.com/DJNGOSolutions/PostgREST-DUI_API/tree/master https://github.com/DJNGOSolutions/DUI-OCR-Panel https://github.com/DJNGOSolutions/simple-ocr-opencv/tree/tess |   | |
 |   |   | https://github.com/RafaCruzA/VClass |   | Rafael Cruz |
