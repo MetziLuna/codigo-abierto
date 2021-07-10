@@ -1,6 +1,6 @@
 # Aplicaciones de Código Abierto
 
-Proyectos 2019:
+Proyectos 01-2019:
 
 |No.| Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
 |---|---|---|---|---|---|
@@ -14,20 +14,22 @@ Proyectos 2019:
 |8| ML en Matlab Octave con interfaz gráfica  |   | https://github.com/EliezerCast1llo/Machine-Learning-en-MatLab-Octave-con-interfaz-grafica | MIT  | Eliezer Castillo |
 |9| Sudoku Resolver |   | https://github.com/Johnvladimir/ProyectoCA_SudokuResolver | | John |
 
-Proyectos 2020:
+Proyectos 01-2020:
 
 
-| Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
-|---|---|---|---|---|
-| Chatbot |   | https://github.com/vegadevh/chatbot-dialogflow   | MIT | Diego Vega |
-| HowToWaste  |   | https://github.com/DouglasHdezT/HowToWaste | MIT | Douglas Hernández  |
-| Color Recognition |   | https://github.com/OpenMindDevs/color_recognition  | GPL v3 |   |
-| AMSS Covid19 Map |   | https://github.com/salvadorc94/AMSSCovid19Map.git |   |   |
-| DUI-OCR |   | https://github.com/DJNGOSolutions/PostgREST-DUI_API/tree/master https://github.com/DJNGOSolutions/DUI-OCR-Panel https://github.com/DJNGOSolutions/simple-ocr-opencv/tree/tess |   | |
-|   |   | https://github.com/RafaCruzA/VClass |   | Rafael Cruz |
-| FindMyProduct |   | https://github.com/Sortweste/FindMyProduct | GPL v3 | |
-| Tremor |   | https://github.com/BigDreamsCoders/Tremor | Apache 2.0 | Nelson Castro |
-| MovieRecommender |   | https://github.com/gammanc/movierecommender | GPL v3 | |
+|No.| Nombre  | Descripción  | Repositorio  | Licencia  | Autores  |
+|---|---|---|---|---|---|
+|1| Chatbot |   | https://github.com/vegadevh/chatbot-dialogflow   | MIT | Diego Vega |
+|2| HowToWaste  |   | https://github.com/DouglasHdezT/HowToWaste | MIT | Douglas Hernández  |
+|3| Color Recognition |   | https://github.com/OpenMindDevs/color_recognition  | GPL v3 |   |
+|4| AMSS Covid19 Map |   | https://github.com/salvadorc94/AMSSCovid19Map.git |   |   |
+|5| DUI-OCR |   | https://github.com/DJNGOSolutions/PostgREST-DUI_API/tree/master https://github.com/DJNGOSolutions/DUI-OCR-Panel https://github.com/DJNGOSolutions/simple-ocr-opencv/tree/tess |   | |
+|6|   |   | https://github.com/RafaCruzA/VClass |   | Rafael Cruz |
+|7| FindMyProduct |   | https://github.com/Sortweste/FindMyProduct | GPL v3 | |
+|8| Tremor |   | https://github.com/BigDreamsCoders/Tremor | Apache 2.0 | Nelson Castro |
+|9| MovieRecommender |   | https://github.com/gammanc/movierecommender | GPL v3 | |
+
+Proyectos 02-2020:
 
 
 
