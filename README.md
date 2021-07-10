@@ -25,6 +25,8 @@ Proyectos 2020:
 | DUI-OCR |   | https://github.com/DJNGOSolutions/PostgREST-DUI_API/tree/master https://github.com/DJNGOSolutions/DUI-OCR-Panel https://github.com/DJNGOSolutions/simple-ocr-opencv/tree/tess |   | |
 |   |   | https://github.com/RafaCruzA/VClass |   | Rafael Cruz |
 | FindMyProduct |   | https://github.com/Sortweste/FindMyProduct |   | |
+|   |   | https://github.com/BigDreamsCoders/Tremor |   | Nelson Castro |
+| MovieRecommender |   | https://github.com/gammanc/movierecommender |   | |
 
 
 
@@ -32,19 +34,3 @@ Proyectos 2020:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/gammanc/movierecommender
-
-https://github.com/BigDreamsCoders/Tremor
