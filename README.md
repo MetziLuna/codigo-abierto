@@ -1,4 +1,4 @@
-# codigo-abierto
+# Aplicaciones de Código Abierto
 
 Proyectos 2019:
 
