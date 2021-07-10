@@ -9,6 +9,7 @@ https://github.com/crcr97/la1
 https://github.com/luisro369/JarvisUCA
 
 https://github.com/milomndz/MaydayComputerVisionWeb
+
 https://github.com/acampos96/MayDayComputerVisionApp
 
 https://github.com/emartinezs/aiexperiments-bird-sounds
