@@ -12,6 +12,7 @@ Proyectos 2019:
 | AVGN |   | https://github.com/CarMer194/AVGN  |   | Carlos Merino  |
 | AsuraFaceID  |   | https://github.com/davequinta/AsuraFaceID | MIT | David Quintanilla  |
 | ML en Matlab Octave con interfaz gráfica  |   | https://github.com/EliezerCast1llo/Machine-Learning-en-MatLab-Octave-con-interfaz-grafica | MIT  | Eliezer Castillo |
+| Sudoku Resolver |   | https://github.com/Johnvladimir/ProyectoCA_SudokuResolver | | John |
 
 Proyectos 2020:
 
